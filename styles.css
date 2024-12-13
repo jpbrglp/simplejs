@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqFdVOXCQMoyAHgBQpgAzWNhQeux8Eq0Apw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#formulario{
+    width: 300px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: solid;
+    border-radius: 10px;
+}
+input{
+    margin: 15px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.349);
+}
+h1{
+    color: rgba(0, 0, 0, 0.719);
+}
+
